@@ -14,7 +14,7 @@ sections:
   - post
 - type: jekyll-pages
   label: Pages
-  create: all
+  create: documents
   templates:
   - landing-page
   - page
