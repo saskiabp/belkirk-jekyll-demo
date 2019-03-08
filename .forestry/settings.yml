@@ -11,6 +11,7 @@ sections:
   create: all
   templates:
   - post
+  - post
 - type: jekyll-pages
   label: Pages
   create: all
